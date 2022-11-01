@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joannamckenzie
 - 👀 I’m interested in data science and analytics.
-- I work for The Data Lab Scotland.
 
 I don't have much of a profile here because most of the things I work on are confidential -- mostly in the sense that the data are shared under non-disclosure agreements.
 
